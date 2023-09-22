@@ -5,3 +5,5 @@ file = open(filename, 'w')
 for name in name:
     file.write("%s\n" % name)
 file.close()
+
+print("alteração")
